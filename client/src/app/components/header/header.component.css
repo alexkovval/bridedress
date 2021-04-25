@@ -14,6 +14,8 @@
     color:rgba(199, 163, 72, 1);;
     margin-left: 30px;
     font-size: 20px;
+    -webkit-text-stroke: .03em #5c4200;
+
 }
 p{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -26,4 +28,6 @@ p{
 }
 .nav-item{
     margin-left: 30px;
+    -webkit-text-stroke: .03em #5c4200;
+
 }
