@@ -9,7 +9,7 @@ h5, h3{
 img{
     margin-left: 10px;
     max-height: 700px;
-    max-width: 700px;
+    max-width: 650px;
 }
     img {
     transition: 1s; /* Время эффекта */

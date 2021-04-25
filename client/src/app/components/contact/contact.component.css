@@ -4,6 +4,9 @@ svg{
 .mgl{
     margin-left: 10px;
 }
-span,a{
+div{
     margin-bottom: 50px;
+}
+.num{
+    margin-left: 10px;
 }
