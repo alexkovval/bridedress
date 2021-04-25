@@ -1,5 +1,5 @@
 body{
     background-image: url(\src\assets\home.jpg);
     background-attachment: fixed;
-    background-size:  100% auto;
+    background-size:  cover;
 }
