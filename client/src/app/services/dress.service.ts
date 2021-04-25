@@ -12,7 +12,7 @@ export class DressService {
     constructor(private http: HttpClient) { }
 
     public getAll():Promise<Dress[]> {
-        const observable=this.http.get<Dress[]>('http://localhost:5000/api/dress');
+        const observable=this.http.get<Dress[]>('/api/dress');
         return observable.toPromise();
 
     }
