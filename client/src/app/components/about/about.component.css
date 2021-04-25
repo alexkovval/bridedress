@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+.all{
+    width: 400px;
+    height: 500px;
+    margin-left: 150px;
+    background-image: url(src\assets\https___oformi-foto.ru_png_tmp_27288.png);
+    background-size:  100% auto;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    background-color: rgba(232, 208, 149, 0.4);
+    font-family: 'Merriweather', serif;
+}
+.content{
+    margin: 50px;
+}

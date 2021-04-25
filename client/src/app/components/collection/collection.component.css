@@ -1,0 +1,23 @@
+hr{
+    border: 3px solid gold;
+}
+h5, h3{
+    text-align: center;
+    color: gold;
+    -webkit-text-stroke: .03em #5c4200;
+}
+img{
+    margin-left: 10px;
+    max-height: 700px;
+    max-width: 700px;
+}
+    img {
+    transition: 1s; /* Время эффекта */
+   }
+   img:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб */
+   }
+
+.center{
+    text-align: center;
+}

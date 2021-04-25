@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,800&display=swap');
+.brand{
+    color: rgba(199, 163, 72, 1);;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;    
+    -webkit-text-stroke: .03em #5c4200;
+
+}
+
+.navbar-brand{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgba(199, 163, 72, 1);;
+    margin-left: 30px;
+    font-size: 20px;
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgba(199, 163, 72, 1);
+    margin-top: 20px;
+    font-size: 20px;
+}
+.all{
+    text-align: center;
+}
